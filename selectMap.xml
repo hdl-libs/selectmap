@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spirit:busDefinition xmlns:xilinx="http://www.xilinx.com" xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spirit:vendor>john_tito</spirit:vendor>
+  <spirit:library>interface</spirit:library>
+  <spirit:name>selectMap</spirit:name>
+  <spirit:version>1.1</spirit:version>
+  <spirit:directConnection>false</spirit:directConnection>
+  <spirit:isAddressable>false</spirit:isAddressable>
+  <spirit:extends spirit:vendor="john_tito" spirit:library="interface" spirit:name="selectMap" spirit:version="1.1"/>
+  <spirit:maxMasters>1</spirit:maxMasters>
+  <spirit:maxSlaves>1</spirit:maxSlaves>
+</spirit:busDefinition>
